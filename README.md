@@ -2,7 +2,7 @@
 
 ### `roman_to_int` is a JavaScript function that returns an integer for a given Roman numeral.
 
-### it will take as an argument a Roman numeral between 1 and 1000(I and M).
+### it will take as an argument a Roman numeral between 1 and 3999.
 
 ### Symbols and Value correspondence
 ```
