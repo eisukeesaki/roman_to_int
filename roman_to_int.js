@@ -15,7 +15,7 @@ function  get_int_of_roman_char(roman_char) {
     case "M":
       return 1000;
     default:
-      throw new Error("Invalid Roman character were passed. Terminating.")
+      throw new Error("Invalid Roman character were passed. Terminating.");
   }
 }
 
